@@ -254,6 +254,7 @@ footer {
     display: flex;
     flex-flow: column;
     justify-content: center;
+    margin-top: 95px;
 }
 
 .contentWrapper {
